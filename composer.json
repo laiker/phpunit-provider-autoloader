@@ -1,12 +1,11 @@
 {
-	"name": "redaxmedia/phpunit-provider-autoloader",
+	"name": "laiker/phpunit-provider-autoloader",
 	"description": "Magic helper to autoload CSV, JSON, PHP, XML and YAML data provider in PHPUnit",
 	"version": "4.2.3",
 	"license": "MIT",
 	"require":
 	{
 		"php": "^7.2 || ^8",
-		"phpunit/phpunit": "^8 || ^9",
 		"symfony/property-access": "^5",
 		"symfony/serializer": "^5",
 		"symfony/yaml": "^5"
